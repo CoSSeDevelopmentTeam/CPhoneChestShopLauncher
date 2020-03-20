@@ -1,7 +1,7 @@
 <strings>
     <string name="prefix">システム>> </string>
-    <string name="enabled">対象のチェストに触れると操作パネルが開きます。操作が終わったらしふぉんアプリから無効化してください。</string>
-    <string name="disabled">チェストの編集モードを無効化しました。</string>
+    <string name="enabled">準備した看板に触れると操作パネルが開きます。操作が終わったらしふぉんアプリから無効化してください。</string>
+    <string name="disabled">ショップ作成モードを無効化しました。</string>
     <!-- MainActivity -->
     <string name="title">ChestShop</string>
     <string name="content">チェストに隣接した看板の1行目に「cshop」、2行目に自分の名前を入力してください。&#xA;
