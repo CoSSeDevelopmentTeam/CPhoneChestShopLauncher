@@ -1,0 +1,13 @@
+<strings>
+    <string name="prefix">システム>> </string>
+    <string name="enabled">対象のチェストに触れると操作パネルが開きます。操作が終わったらしふぉんアプリから無効化してください。</string>
+    <string name="disabled">チェストの編集モードを無効化しました。</string>
+    <!-- MainActivity -->
+    <string name="title">ChestShop</string>
+    <string name="content">チェストに隣接した看板の1行目に「cshop」、2行目に自分の名前を入力してください。&#xA;
+        以上の操作を完了したらしたのボタンを押して作成モードを有効化し、対象の看板に触れます。&#xA;
+        ショップを作成した後は再度アプリを開き、下のボタンから作成モードを無効化してください。</string>
+    <string name="button1">作成モードの有効化/無効化</string>
+    <string name="button2">アプリを閉じる</string>
+    <string name="cphone_home">ChestShopを閉じました。</string>
+</strings>
