@@ -1,0 +1,10 @@
+<strings>
+    <string name="prefix">システム>> </string>
+    <string name="enabled">準備した看板に触れると操作パネルが開きます。操作が終わったらしふぉんアプリから無効化してください。</string>
+    <string name="disabled">ショップ作成モードを無効化しました。</string>
+    <!-- MainActivity -->
+    <string name="title">ChestShop</string>
+    <string name="content">機能を「Tools」に移植しこのアプリは廃止しました。</string>
+    <string name="button1">アプリを閉じる</string>
+    <string name="button2">アプリを閉じる</string>
+</strings>
